@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+#Rutas de Usuario
+#RewriteRule ^usuario/posts$ usuario/index.php?section=posts[QSA]
